@@ -1,0 +1,177 @@
+:root{
+    --main-color:rgb(241, 236, 236);
+  
+  }
+  
+  body{
+      
+      font-family: 'Kdam Thmor Pro';
+      background-color: #ffffff;
+      padding: 0;
+      margin: 0;
+  }
+  .navbar{
+    background-color: rgb(255, 255, 255);
+    height:100px ;
+  }
+  .navbar img{
+      height: 90px;
+      width: 100px;
+      cursor: pointer;
+  }
+  #b1{
+    border: none;
+  }
+  #b1:hover{
+    background-color: rgb(46, 185, 44);
+    transition: 0.3s;
+  }
+  .navbar-toggler{
+    border: none;
+    font-size: 1.5rem;
+  
+  
+  }
+  #co{
+    padding: 20px;
+    margin: 50px;
+    padding-bottom: 100px;
+  }
+  .nav-link{
+    color:rgb(37, 200, 37);
+    font-weight: 500;
+  }
+  .ron{
+    height: 500px;
+    width: 500px;
+  }
+  #con1{
+    margin-top: 300px;
+    width: 100%;
+    background-color: rgb(30, 29, 29);
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .title{
+    color:rgb(1, 130, 1);
+    font-weight: 700;
+    font-size: 60px;
+  }
+  #d{ 
+    color: white;
+    font-size: 50px;
+    width: 100%;
+  }
+  #d2{
+    margin-right: 50px;
+    padding: 50px;
+    margin-top: 100px;
+  
+  
+  
+  }
+  #d2 .col{
+  
+    padding-left: 35px;
+  }
+  #hh{
+    font-size: 50px;
+    font-weight: bolder;
+  }
+  .col ul li{
+    list-style: none;
+    padding-right: 50px;
+    padding: 5px;
+  }
+  .logo i{
+    margin: 10px;
+    
+    right: -277px;
+    
+  }
+  #idk:hover{
+    color: #ffffff;
+  }
+  #idk{
+  
+    color: rgb(33, 173, 33);
+  }
+  .t{
+   text-align: center;
+  }
+  .PG{
+    color: black;
+  }
+  .one{
+    height: 500px;
+    width: 600px;
+  }
+  .str{
+  
+    font-size: 80px;
+  }
+  .um{
+    width: 300px;
+  }
+  #ho .card{
+    transition:transform 0.5s;
+  }
+  #ho .card:hover{
+   border: 2px solid rgb(48, 210, 89);
+   transform: scale(1.05);
+  
+  }
+  .logc{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .logc img{
+    height: 75px;
+    width: 120px;
+  }
+  .col-md-2{
+    background-color: aqua;
+  } 
+.ca{
+  margin-left:200px;
+  
+  
+
+}
+#aca{
+  color: rgb(0, 0, 0);
+  font-size:40px;
+  font-weight: bolder;
+  padding: 50px;
+  padding-top: 100px;
+
+}
+#l{
+  padding: 50px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.is{
+  width: 300px;
+  height: 300px;
+}
+.cc{
+  padding-top: 100px;
+}
+#ki{
+height: 200px;
+
+}
+#b{
+
+  border-radius: 20px;
+}
+#b:hover{
+  background-color: rgb(32, 211, 32);
+  border: none;
+  transition: 0.5s;
+}
